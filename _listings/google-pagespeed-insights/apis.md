@@ -14,8 +14,8 @@ tags:
 - Stack Network
 - Performance
 - Google APIs
-created: "2018-03-11"
-modified: "2018-03-11"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-pagespeed-insights/master/_listings/google-pagespeed-insights/apis.yaml
 specificationVersion: "0.14"
 apis:
