@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-pagespeed-insights.api.streamdata.gallery
+title: Streamdata Gallery Google PageSpeed Insights
+url: google-pagespeed-insights.streamdata.gallery
 tag: Google PageSpeed Insights
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-pagespeed-insights
 github_branch: master
 collections:
